@@ -1,2 +1,2 @@
 Readme file workflow working...
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/KieranW-145/sem/main.yml?branch=master)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Kieran-W145/sem/main.yml?branch=master)
